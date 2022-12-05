@@ -1,7 +1,7 @@
 {
   "name": "shembeteng",
   "version": "1.0.0",
-  "description": "Turns words into shembeteng",
+  "description": "Sheng to shembeteng",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,8 +12,8 @@
     "url": "git+https://github.com/wamaithaNyamu/shembeteng.git"
   },
   "keywords": [
-    "Shemebteng",
-    "sheng"
+    "Sheng",
+    "shembeteng"
   ],
   "author": "Wamaitha Nyamu",
   "license": "MIT",

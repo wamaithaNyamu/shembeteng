@@ -16,7 +16,6 @@ export const shembeteng = (sentence) => {
         let shembetengPart = '';
         // split each word into array of letters
         const wordSplitOnFirstVowel = word.split(/([aeiou].*)/)
-        console.log(wordSplitOnFirstVowel)
 
         if(wordSplitOnFirstVowel.length > 1){
             // the word has a vowel
@@ -40,3 +39,4 @@ export const shembeteng = (sentence) => {
 
     return shembetengedSentence.join(' ')
 }
+
