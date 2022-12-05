@@ -27,7 +27,6 @@
 
 
 <!-- PROJECT LOGO -->
-[![Product Name Screen Shot][product-screenshot]](https://wamaithanyamu.com/how-to-publish-an-npm-package)
 
 Accompanying blog can be found [here](https://wamaithanyamu.com/how-to-publish-an-npm-package)
 <div>
